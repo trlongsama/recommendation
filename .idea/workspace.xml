@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d392f0b6-a94b-4324-8fd7-5d20773800a1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseline/CF Model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseline/analysis-and-modelling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseline/cleaned_data/bruker.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseline/cleaned_data/film.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseline/cleaned_data/rangering.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseline/data_cleaning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseline/raw_data/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseline/raw_data/bruker.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseline/raw_data/film.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baseline/raw_data/rangering.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ml-latest-small/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ml-latest-small/links.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ml-latest-small/movies.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ml-latest-small/ratings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/ml-latest-small/tags.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/recommendationml-latest-small.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model_train.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CF Model.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CF&amp;CBF Model.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EDA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/analysis-and-modelling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaned_data/bruker.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaned_data/film.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cleaned_data/rangering.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_cleaning.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data/bruker.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data/film.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw_data/rangering.dat" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -70,6 +101,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
